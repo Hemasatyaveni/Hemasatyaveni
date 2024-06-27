@@ -15,6 +15,6 @@ I am working on several projects that leverage HTML, CSS, JavaScript, MongoDB, a
 Being an active member of the GCC, I engage in numerous coding activities and collaborative projects. This involvement not only sharpens my technical skills but also fosters a spirit of teamwork and innovation.
 
 🔗 Let's Connect:
-I'm always open to connecting with fellow tech enthusiasts. Whether it's for discussing ideas, collaborating on projects, or networking, feel free to reach out to me on [LinkedIn!](www.linkedin.com/in/midathana-satya-31060a281)
+I'm always open to connecting with fellow tech enthusiasts. Whether it's for discussing ideas, collaborating on projects, or networking, feel free to reach out to me on [LinkedIn!](https://www.linkedin.com/in/midathana-satya-31060a281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
