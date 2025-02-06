@@ -12,7 +12,7 @@ Think low-level, Code high-level
 - 📄 View my [Resume](https://your-resume-link.com)
 
 ## 🔗 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/midathana-satya-31060a281/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/midathana-satya-31060a281/)
 
 ## 🚀 Tech Stack:
 ### ✅ Known Technologies:
