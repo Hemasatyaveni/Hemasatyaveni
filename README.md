@@ -12,8 +12,7 @@ Think low-level, Code high-level
 - 📄 View my [Resume](https://your-resume-link.com)
 
 ## 🔗 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsvenkat___05/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatnarayan-karanam-868417276/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/midathana-satya-31060a281/])
 
 ## 🚀 Tech Stack:
 ### ✅ Known Technologies:
